@@ -130,7 +130,7 @@ Open Power BI Desktop → Get Data → CSV → select `data/processed/superstore
 
 ## 📊 Dashboard Preview
 
-![Dashboard](reports/dashboard_screenshot.png)
+![Dashboard](reports/dashboard_screenshot.jpg)
 
 **Dashboard Features:**
 - 5 KPI Cards: Total Sales, Total Profit, Profit Margin %, Total Orders, Avg Discount
