@@ -66,4 +66,4 @@ if __name__ == "__main__":
             logging.StreamHandler()
         ]
     )
-    run_all()
+    run_all()        
