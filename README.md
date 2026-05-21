@@ -241,7 +241,7 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Hamid Ali Sayyed (Zen)**
+**Hamidali Sayyed**
 AI/ML & Data Engineering
 
 ---
